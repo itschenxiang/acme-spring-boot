@@ -1,0 +1,11 @@
+{
+  "properties": [
+    {
+      "name": "acme.slogan",
+      "type": "java.lang.String",
+      "description": "slogan",
+      "sourceType": "com.stackcannotcode.acme.autoconfigure.ACMEProperties",
+      "defaultValue": "Hello, ACME!"
+    }
+  ]
+}
